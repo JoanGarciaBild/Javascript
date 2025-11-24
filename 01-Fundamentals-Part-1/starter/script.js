@@ -61,7 +61,7 @@ console.log(typeof null);
 // lastName = 'Schmedtmann';
 // console.log(lastName);
 
-// Math operators
+// Aritmetic operators
 const now = 2037;
 const ageJonas = now - 1991;
 const ageSarah = now - 2018;
